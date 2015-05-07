@@ -25,6 +25,7 @@ http://everythingshouldbevirtual.com/highly-available-elk-elasticsearch-logstash
 ##### With Redis  
 http://www.everybodyhertz.co.uk/setting-up-a-relk-stack-a-how-to/  
 http://divante.co/blog/log-analysis-aggregation/  
+http://logz.io/blog/deploy-elk-production/  
 ##### Authentication  
 http://technosophos.com/2014/03/19/ssl-password-protection-for-kibana.html  
 http://www.ragingcomputer.com/2014/02/securing-elasticsearch-kibana-with-nginx  
