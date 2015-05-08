@@ -80,3 +80,8 @@ https://github.com/zalando-stups/sevenseconds
 
 ## DNS 
 http://dnsdumpster.com/  
+
+## AWS API access  
+https://github.com/dump247/aws-mock-metadata  
+https://github.com/AdRoll/hologram  
+https://github.com/trueaccord/aws-saml-broker  
