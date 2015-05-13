@@ -42,6 +42,7 @@ https://github.com/ChrisRimondi/VulntoES
 https://www.sage-au.org.au/news/grokking-logstash-windows-dns  
 ##### AD  
 http://girl-germs.com/?p=438  
+http://www.ragingcomputer.com/2014/02/logstash-elasticsearch-kibana-for-windows-event-logs  
 ##### Meraki  
 http://www.packetology.net/meraki-flow-logging-using-elk-stack-2/  
 ##### Network Ops  
