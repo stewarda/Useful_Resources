@@ -22,6 +22,7 @@ https://www.digitalocean.com/community/tutorials/how-to-use-logstash-and-kibana-
 https://alexandreesl.wordpress.com/2015/02/27/elk-using-a-centralized-logging-architecture-final-part/  
 https://github.com/guardian/elk-stack  
 http://everythingshouldbevirtual.com/highly-available-elk-elasticsearch-logstash-kibana-setup  
+http://engineering.chartbeat.com/2015/05/26/logstash-deployment-and-scaling-tips/  
 ##### With Redis  
 http://www.everybodyhertz.co.uk/setting-up-a-relk-stack-a-how-to/  
 http://divante.co/blog/log-analysis-aggregation/  
