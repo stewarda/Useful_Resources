@@ -76,6 +76,9 @@ https://technet.microsoft.com/en-us/library/security/3062591
 ## GitRob  
 http://www.noahjaehnert.com/2015/01/gitrob-open-source-github-sensitive-data-search-tool/  
 
+## Git Crawler
+https://github.com/jfalken/github_commit_crawler  
+
 ## ThreatWatch
 http://www.threatwatch.ie/live  
 
