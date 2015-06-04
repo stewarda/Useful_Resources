@@ -122,4 +122,11 @@ https://exploit-exercises.com/
 https://chousensha.github.io/blog/2014/08/08/pentest-lab-damn-vulnerable-web-application/  
 http://hackingdojo.com/pentest-media/  
 https://securitycompass.com/training/free/course-demos  
+http://its.ucsc.edu/security/index.html  
+https://www.onguardonline.gov/  
+https://www.microsoft.com/en-us/sdl/default.aspx  
+http://www.risk3sixty.com/free-information-security-training/  
+http://cyberaces.org/  
+http://www.gcflearnfree.org/internetsafety  
+https://www.sophos.com/en-us/security-news-trends/it-security-dos-and-donts.aspx
 
