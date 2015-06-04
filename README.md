@@ -92,3 +92,24 @@ http://dnsdumpster.com/
 https://github.com/dump247/aws-mock-metadata  
 https://github.com/AdRoll/hologram  
 https://github.com/trueaccord/aws-saml-broker  
+
+## AppSec Traning  
+http://opensecuritytraining.info/Training.html  
+http://www.slideshare.net/OpenDNS/security-ninjas-opensource  
+https://www.securecoding.cert.org/confluence/display/java/Java+Coding+Guidelines  
+http://swreflections.blogspot.ca/2012/03/defensive-programming-being-just-enough.html  
+http://www.dvwa.co.uk/  
+https://hack.me/  
+https://github.com/Hackademic/hackademic/  
+https://google-gruyere.appspot.com/  
+http://www.amanhardikar.com/mindmaps/Practice.html  
+https://github.com/google/firing-range  
+https://webgoat.github.io/  
+https://github.com/OWASP/SecurityShepherd  
+http://www.gameofhacks.com/ 
+http://sourceforge.net/projects/mutillidae/  
+https://github.com/breakthesec/JavaVulnerableLab  
+https://blog.mozilla.org/security/2015/04/02/introducing-project-seasponge-quick-and-easy-threat-modeling/  
+https://blogs.microsoft.com/cybertrust/2014/04/15/introducing-microsoft-threat-modeling-tool-2014/  
+
+
