@@ -117,4 +117,9 @@ http://www.ringzer0team.com/home
 http://overthewire.org/wargames/  
 https://lab.pentestit.ru/  
 http://sourceforge.net/projects/mutillidae/  
+http://www.webscantest.com/  
+https://exploit-exercises.com/  
+https://chousensha.github.io/blog/2014/08/08/pentest-lab-damn-vulnerable-web-application/  
+http://hackingdojo.com/pentest-media/  
+https://securitycompass.com/training/free/course-demos  
 
