@@ -95,7 +95,8 @@ https://github.com/trueaccord/aws-saml-broker
 
 ## AppSec Traning  
 http://opensecuritytraining.info/Training.html  
-http://www.slideshare.net/OpenDNS/security-ninjas-opensource  
+http://www.slideshare.net/OpenDNS/security-ninjas-opensource
+https://pentesterlab.com/  
 https://www.securecoding.cert.org/confluence/display/java/Java+Coding+Guidelines  
 http://swreflections.blogspot.ca/2012/03/defensive-programming-being-just-enough.html  
 http://www.dvwa.co.uk/  
@@ -111,6 +112,9 @@ http://sourceforge.net/projects/mutillidae/
 https://github.com/breakthesec/JavaVulnerableLab  
 https://blog.mozilla.org/security/2015/04/02/introducing-project-seasponge-quick-and-easy-threat-modeling/  
 https://blogs.microsoft.com/cybertrust/2014/04/15/introducing-microsoft-threat-modeling-tool-2014/  
-https://community.rapid7.com/docs/DOC-1875
+https://community.rapid7.com/docs/DOC-1875  
+http://www.ringzer0team.com/home  
+http://overthewire.org/wargames/  
+https://lab.pentestit.ru/  
 
 
