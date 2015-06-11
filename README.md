@@ -132,3 +132,9 @@ https://www.sophos.com/en-us/security-news-trends/it-security-dos-and-donts.aspx
 
 ## GRC  
 http://www.eramba.org/  
+
+## AWS STS and MFA  
+https://github.com/broamski/botomfa  
+https://github.com/jimbrowne/aws-sts-helpers  
+https://github.com/timotheosh/AwsConfigMFA  
+https://github.com/philipn/aws-keyring  
