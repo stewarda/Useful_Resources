@@ -56,7 +56,8 @@ http://blogs.cisco.com/security/step-by-step-setup-of-elk-for-netflow-analytics
 ##### Suritica  
 http://blog.inliniac.net/  
 ##### PAN  
-https://github.com/timconradinc/logstash-palo-alto  
+https://github.com/timconradinc/logstash-palo-alto 
+https://exorcimist.wordpress.com/2015/05/07/kibana-logstash-elasticsearch-for-palalto/  
 ##### Sophos  
 https://github.com/Netflix-Skunkworks/logstash-configs  
 ##### Cisco ASA  
@@ -65,6 +66,8 @@ http://jackhanington.com/blog/2014/07/30/sysloging-cisco-asa-firewall/
 http://blog.davidvassallo.me/2015/04/21/building-a-logging-forensics-platform-using-elk-elasticsearch-logstash-kibana/  
 ##### IIS  
 http://improveandrepeat.com/2014/11/using-logstash-to-analyse-iis-log-files-with-kibana/  
+##### Threat Intelligence  
+http://infosecscapes.blogspot.com/2014/06/threatelligence.html
 
 
 
