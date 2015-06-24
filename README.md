@@ -71,8 +71,6 @@ http://infosecscapes.blogspot.com/2014/06/threatelligence.html
 
 
 
-
-
 ## Windows Local Admin Pwd Change (LAPS)  
 https://technet.microsoft.com/en-us/library/security/3062591
 
@@ -132,6 +130,12 @@ http://www.risk3sixty.com/free-information-security-training/
 http://cyberaces.org/  
 http://www.gcflearnfree.org/internetsafety  
 https://www.sophos.com/en-us/security-news-trends/it-security-dos-and-donts.aspx
+https://github.com/yahoo/webseclab  
+https://github.com/paragonie/awesome-appsec  
+https://github.com/toolness/security-adventure  
+https://clicksecurity.github.io/data_hacking/  
+https://github.com/floragunncom/search-guard  
+https://www.vultureproject.org/  
 
 ## GRC  
 http://www.eramba.org/  
@@ -141,3 +145,32 @@ https://github.com/broamski/botomfa
 https://github.com/jimbrowne/aws-sts-helpers  
 https://github.com/timotheosh/AwsConfigMFA  
 https://github.com/philipn/aws-keyring  
+
+## Automated Vuln Scanning  
+https://github.com/schubergphilis/Seccubus_v2  
+
+## Asset Management  
+http://aphiniti.com/  
+https://github.com/snipe/snipe-it  
+
+## Secrets Management  
+#####  Consol  
+https://www.consul.io/intro/index.html  
+
+##### Terraform  
+https://www.terraform.io/  
+
+##### Vault  
+https://github.com/hashicorp/vault  
+
+##### Conjur  
+http://www.conjur.net/  
+
+##### Sneaker  
+https://github.com/codahale/sneaker  
+
+##### Credstash  
+https://github.com/LuminalOSS/credstash  
+
+##### Keywhizz  
+https://square.github.io/keywhiz/  
