@@ -49,7 +49,7 @@ http://www.ragingcomputer.com/2014/02/logstash-elasticsearch-kibana-for-windows-
 ##### Meraki  
 http://www.packetology.net/meraki-flow-logging-using-elk-stack-2/  
 ##### Network Ops  
-http://www.networkassassin.com/elk-for-network-operations/ 
+http://www.networkassassin.com/elk-for-network-operations/  
 http://www.networkassassin.com/elk-stack-for-network-operations-reloaded/  
 ##### Netflow  
 http://blogs.cisco.com/security/step-by-step-setup-of-elk-for-netflow-analytics  
