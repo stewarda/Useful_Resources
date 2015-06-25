@@ -174,3 +174,6 @@ https://github.com/LuminalOSS/credstash
 
 ##### Keywhizz  
 https://square.github.io/keywhiz/  
+
+##### Onetimesecret  
+https://onetimesecret.com/  
