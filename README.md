@@ -187,3 +187,7 @@ http://blogs.lockstepgroup.com/palo-alto-networks/
 ## AD Sec Script  
 https://project500.squarespace.com/journal?category=Coding  
 https://project500.squarespace.com/journal/2014/6/14/locking-down-your-active-directory-domain-part-2-domainlockdownps1  
+
+## Automated scanning    
+http://devops.com/2015/04/06/automated-security-testing-continuous-delivery-pipeline/      
+https://www.securify.nl/blog/SFY20150303/automating_security_tests_using_owasp_zap_and_jenkins.html     
