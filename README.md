@@ -136,7 +136,8 @@ https://github.com/toolness/security-adventure
 https://clicksecurity.github.io/data_hacking/  
 https://github.com/floragunncom/search-guard  
 https://www.vultureproject.org/  
-http://xsser.03c8.net/xsser/XSS_for_fun_and_profit_SCG09_(english).pdf    
+http://xsser.03c8.net/xsser/XSS_for_fun_and_profit_SCG09_(english).pdf   
+http://www.xss-payloads.com/index.html  
 
 ## GRC  
 http://www.eramba.org/  
