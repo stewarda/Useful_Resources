@@ -138,6 +138,7 @@ https://github.com/floragunncom/search-guard
 https://www.vultureproject.org/  
 http://xsser.03c8.net/xsser/XSS_for_fun_and_profit_SCG09_(english).pdf   
 http://www.xss-payloads.com/index.html  
+https://github.com/cure53/XSSChallengeWiki/wiki
 
 ## GRC  
 http://www.eramba.org/  
