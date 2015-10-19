@@ -192,4 +192,8 @@ https://project500.squarespace.com/journal/2014/6/14/locking-down-your-active-di
 
 ## Automated scanning    
 http://devops.com/2015/04/06/automated-security-testing-continuous-delivery-pipeline/      
-https://www.securify.nl/blog/SFY20150303/automating_security_tests_using_owasp_zap_and_jenkins.html     
+https://www.securify.nl/blog/SFY20150303/automating_security_tests_using_owasp_zap_and_jenkins.html   
+
+## AD  
+http://blog.varonis.com/category/directory-services/  
+
