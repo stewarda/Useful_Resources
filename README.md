@@ -140,6 +140,7 @@ http://xsser.03c8.net/xsser/XSS_for_fun_and_profit_SCG09_(english).pdf
 http://www.xss-payloads.com/index.html  
 https://github.com/cure53/XSSChallengeWiki/wiki  
 https://docs.acquia.com/articles/using-xss-steal-access
+http://thehackpot.blogspot.com/2014/05/eliminating-automated-xss-false.html   
 
 ## GRC  
 http://www.eramba.org/  
@@ -197,4 +198,8 @@ https://www.securify.nl/blog/SFY20150303/automating_security_tests_using_owasp_z
 
 ## AD  
 http://blog.varonis.com/category/directory-services/  
+
+## OSX Tools   
+http://dustinrcollins.com/devops-on-osx  
+
 
